@@ -49,6 +49,7 @@ public:
 	//<cpuGen>
 	//<year>
 	//<price>
+	string toString() const;
 };
 
 
